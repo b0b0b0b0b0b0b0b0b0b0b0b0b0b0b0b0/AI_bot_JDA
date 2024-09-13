@@ -1,0 +1,9 @@
+{
+  "botToken": "YOUR_DISCORD_BOT_TOKEN",
+  "aiToken": "YOUR_AI_API_TOKEN",
+  "modelId": "gpt-4",
+  "channels": {
+    "general": "YOUR_GENERAL_CHANNEL_ID",
+    "support": "YOUR_SUPPORT_CHANNEL_ID"
+  }
+}
